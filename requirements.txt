@@ -1,0 +1,4 @@
+# Project Dependencies for Booklet Imposition Tool
+# Powered by PyMuPDF (fitz) for high-performance vector rendering and flattening
+
+pymupdf==1.24.1
