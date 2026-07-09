@@ -1,0 +1,14 @@
+# Kisi specific file ko rokne ke liye
+#config.env
+#secret.txt
+book.pdf
+
+# Kisi poore folder (jaise node_modules) ko rokne ke liye
+#node_modules/
+#dist/
+#output/
+venv/
+
+# Kisi specific extension ki saari files ko rokne ke liye
+#*.log
+#*.mp4
